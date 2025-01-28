@@ -113,7 +113,7 @@ const App = () => {
           )}
 
           <section className="all-movies">
-            <h2>All Movies</h2>
+            <h2>Popular Movies</h2>
 
             {isLoading ? (
               <Spinner />
